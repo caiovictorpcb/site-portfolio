@@ -62,8 +62,10 @@ h1{
     color: rgba(0,0,0,1);
 }
 a{
-    font-size: 36px;
+    font-size: 32px;
     margin-bottom: 12px;
     color: rgba(0,0,0,1);
-
+}
+.sheikcoins{
+    color:rgb(251, 176, 55)
 }
